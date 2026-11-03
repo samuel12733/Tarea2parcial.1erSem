@@ -1,0 +1,16 @@
+body {
+	background-color:black;
+	color:white;
+	
+	text-align:center;
+}
+h1 {
+	border:10px solid White;
+}
+main {
+	width:800px;
+	margin:0 auto;
+}
+a { 
+	background-color:white;
+}
